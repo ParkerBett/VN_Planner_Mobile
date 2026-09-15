@@ -1,6 +1,6 @@
 # VN Planner Mobile
 
-Native Java Android client for VN Planner Desktop v0.1.
+Native Java Android client of VN Planner Desktop v0.1.
 
 ## Phase 1
 
